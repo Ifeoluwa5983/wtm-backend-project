@@ -1,0 +1,13 @@
+node_modules
+.env
+dist
+build
+logs
+coverage
+.nyc_output
+package-lock.json
+yarn-error.log
+yarn.lock
+.idea
+.vscode
+.codegpt
